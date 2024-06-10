@@ -1,0 +1,6 @@
+{
+  "Name": "grass",
+  "TextureName": "grass.png",
+  "Layer": 0, 
+  "IsCollidable": false
+}

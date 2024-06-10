@@ -1,0 +1,6 @@
+{
+  "Name": "rock",
+  "TextureName": "rock.png",
+  "Layer": 1,
+  "IsCollidable": true
+}

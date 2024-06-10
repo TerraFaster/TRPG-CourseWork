@@ -1,0 +1,6 @@
+{
+  "Name": "water",
+  "TextureName": "water.png",
+  "Layer": 0,
+  "IsCollidable": false
+}
